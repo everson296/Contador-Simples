@@ -26,24 +26,8 @@ btns.forEach((item) => {
         }else if(count === 0){
             value.style.color = 'white'
         }
-        
-        
         value.textContent = count;
-           
-          
     })
 })
 
-
 let count = 0;
-
-
-
-
-
-
-
-
-
-
-
